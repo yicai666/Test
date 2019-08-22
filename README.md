@@ -1,2 +1,2 @@
 # Test
-This is just for testing
+This is a learning test for github
